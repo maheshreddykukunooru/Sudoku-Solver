@@ -38,16 +38,16 @@ Both the algorithms are working fine for all the test cases (easy, medium, hard 
 
 For the following test case:
 
-<center>					Sudoku 05  
-					008640500  
-					000000000  
-					052000000  
-					040906010  
-					020804060  
-					080307020  
-					000000370  
-					000000000  
-					001082400  </center>
+Sudoku 05  
+008640500  
+000000000  
+052000000  
+040906010  
+020804060  
+080307020  
+000000370  
+000000000  
+001082400  
 
 
 No.of backtracking steps in Part1: 104866  
@@ -59,7 +59,7 @@ Runtime: 0.005799
 
 Similiiarly for,
 
-<center>Sudoku 04  
+Sudoku 04  
 000170450  
 000008173  
 000000800  
@@ -68,7 +68,7 @@ Similiiarly for,
 009000036  
 005000000  
 874900000  
-013027000  </center>
+013027000  
 
 No.of backtracking steps in Part1: 1913	 
 Runtime: 0.023849s  
